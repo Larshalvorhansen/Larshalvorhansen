@@ -1,4 +1,4 @@
-- Hello my name is Lars Halvor
+- Hello my name is Lars Halvor 👋
 - I am interested in complex adaptive systems, network science and meritocracy
 - Currently studying electronic engineering in Trondheim, Norway
 - My website: halvorhansen.no
