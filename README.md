@@ -1,6 +1,7 @@
 - Hello, my name is Lars Halvor 👋
 - I am interested in complex adaptive systems 🌀, macroeconomics🚢, demography 🌍, and electronics 🛰️
 - Therefore I am currently studying for a M.Sc in electronic engineering 🤖 and a B.Sc in economics 🏛️ in Trondheim, Norway 🇳🇴
+- Lambda the simulation project is a datascience project I am currently pursuing [CHECK IT OUT HERE](https://halvorhansen.no/lambdasim)
 - Feel free to email 📧 me at larshalvorhansen1@gmail.com regarding any of my public repos!
 - You can also find me at [halvorhansen.no](https://halvorhansen.no)
 <!---
